@@ -6,7 +6,7 @@ This repository contains the **code, analysis notebooks, and data resources** as
 
 The paper will appear at **[NeSy 2026 — International Conference on Neural-Symbolic Learning and Reasoning](https://2026.nesyconf.org/)**.
 
-**Paper:** Public URL will be added once available.
+**Paper:** https://arxiv.org/abs/2608.14729
 
 ## Overview
 
